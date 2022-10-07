@@ -1,0 +1,2 @@
+#!/bish/bash
+chown betty hello
